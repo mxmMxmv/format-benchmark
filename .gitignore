@@ -1,1 +1,14 @@
-CMakeFiles
+﻿# Build
+build/
+out/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj*
+*.user
+
+# Binaries
+*.exe
+*.dll
+*.pdb
